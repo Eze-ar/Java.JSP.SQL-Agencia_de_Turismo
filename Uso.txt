@@ -1,0 +1,28 @@
+La primer vez ingresa con admin/2435 luego que cargo el primer empleado/usuario ya no
+quedando este último como administrador. No dar de baja todos los usuarios! al menos
+debe quedar un admin, sino obvio borrar la BD completa y volver con admin/2435
+
+El nro de servicios máx por paquete son 3 para esta "demo" pero esto es ampliable
+con menor mod al programa.
+
+Como también dije no controlo que no se repitan los usuarios.
+
+Al paquete le agregué el campo nombre, ya que me pareció más lógico que recordar
+un código.
+
+En la lista de servicios del paquete (al presentar por pantalla) muestro los nombres
+de los servicios incluídos, no los datos completos cosa de ahorrar espacio visual además
+que siempre se puede ver el listado de servicios completo en el apartado correspondiente.
+
+Las fechas se muestran por pantalla en formato dd/MM/yyyy y guardando en la BD
+como yyyy-MM-dd.
+
+Algo importante, notar que por mi UML empleado y cliente
+sólo están ligados por la transacción (venta) pero no es una agencia
+en la que algún vendedor tenga clientes asignados ya que no hay relación cliente
+empleado. En caso que sí lo hubiese ya habría otra relación 1-n entre empleados
+clientes del modo que 1 empleado tenga N clientes o N clientes están asignados
+a 1 vendedor.
+
+La página de venta no fue incluída en el presente proyecto.
+

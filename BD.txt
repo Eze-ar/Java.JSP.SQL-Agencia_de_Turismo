@@ -1,0 +1,5 @@
+Debe existir previo a la ejecución del programa la siguiente BD SQL:
+
+nombre de la BD: agencia
+user:            age
+pass:            1234
