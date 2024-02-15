@@ -52,9 +52,11 @@ Las fechas se muestran en formato dd/MM/yyyy en la interfaz de usuario, pero se 
 
 - **Página de Venta:** La página y servicio de venta no fue incluido en este proyecto.
 
-## VIDEO DEMOSTRATIVO
+## ALGUNAS IMÁGENES DEL PROYECTO
 
-En el siguiente video demuestro el uso de la aplicación web desde el login hasta el alta, baja y listado de paquetes, servicios y empleados/usuarios:
-
-[Ver video Demostrativo](https://github.com/Eze-ar/Eze-ar-Java.JSP-Agencia_de_Turismo/blob/main/demostracion.mkv)
+![Login](https://github.com/Eze-ar/Eze-ar-Java.JSP-Agencia_de_Turismo/blob/main/_capturas_/1_login.png)
+![Login incorrecto](https://github.com/Eze-ar/Eze-ar-Java.JSP-Agencia_de_Turismo/blob/main/_capturas_/2_login-incorrecto.png)
+![Página principal](https://github.com/Eze-ar/Eze-ar-Java.JSP-Agencia_de_Turismo/blob/main/_capturas_/3_inicio.png)
+![Alta de EMPLEADO / USUARIO](https://github.com/Eze-ar/Eze-ar-Java.JSP-Agencia_de_Turismo/blob/main/_capturas_/4_alta-empleado-usuario.png)
+![Listado de EMPLEADO / USUARIO](https://github.com/Eze-ar/Eze-ar-Java.JSP-Agencia_de_Turismo/blob/main/_capturas_/5_listado-empleado-usuario.png)
 
