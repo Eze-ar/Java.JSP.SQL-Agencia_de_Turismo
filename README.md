@@ -2,8 +2,7 @@
 
 ## Aplicación Web usando Java y JSP
 
-Este proyecto es una aplicación web desarrollada en Java, usando JSP para una agencia de turismo. Permite realizar operaciones como altas, bajas y listados de paquetes y servicios turísticos, así como altas, 
-bajas y listados de empleados/usuarios del sistema.
+Este proyecto es una aplicación web desarrollada en Java, usando JSP y con persistencia mediante una Base de Datos SQL, para una Agencia de Turismo. Permite realizar operaciones como Altas, Bajas, Modificación y Lectura (ABML o CRUD en inglés) de paquetes, servicios turísticos y de empleados/usuarios del sistema.
 
 Este proyecto formó constituyó mi proyecto final para el curso de Programador Full Stack con Java del Silicon (Polotic) Misiones del año 2021.
 
